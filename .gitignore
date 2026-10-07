@@ -1,0 +1,28 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Environment variables / secrets
+.env
+*.env
+
+# Data
+data/raw/
+data/processed/
+
+# Databricks
+.databricks/
+
+# Azure credentials
+azure/credentials/
+
+# IDE
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
